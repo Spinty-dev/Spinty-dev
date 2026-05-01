@@ -18,11 +18,11 @@
 ### 🔮 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Spinty-dev&show_icons=true&theme=transparent&hide_border=true&title_color=FF79C6&icon_color=BD93F9&text_color=C9D1D9" alt="Spinty-dev's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Spinty-dev&layout=compact&theme=transparent&hide_border=true&title_color=FF79C6&text_color=C9D1D9" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Spinty-dev&show_icons=true&bg_color=0D1117&hide_border=true&title_color=FF79C6&icon_color=BD93F9&text_color=C9D1D9" alt="Spinty-dev's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Spinty-dev&layout=compact&bg_color=0D1117&hide_border=true&title_color=FF79C6&text_color=C9D1D9" alt="Top Languages" width="48%" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spinty-dev&theme=transparent&hide_border=true&title_color=FF79C6&text_color=C9D1D9&icon_color=BD93F9&date_color=C9D1D9&sideNums=FF79C6&sideLabels=C9D1D9&ring=BD93F9&fire=FF79C6&currStreakNum=FF79C6" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spinty-dev&background=0D1117&hide_border=true&title_color=FF79C6&text_color=C9D1D9&icon_color=BD93F9&date_color=C9D1D9&sideNums=FF79C6&sideLabels=C9D1D9&ring=BD93F9&fire=FF79C6&currStreakNum=FF79C6" alt="GitHub Streak" />
 </div>
 
 <br>
