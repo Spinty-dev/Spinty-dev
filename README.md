@@ -27,6 +27,14 @@
 
 <br>
 
+### 🌸 Anime & Waifu
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Spinty-dev/Spinty-dev/main/anilist-metrics.svg" alt="AniList Metrics" />
+</div>
+
+<br>
+
 ### 🌌 Contributions
 
 <div align="center">
