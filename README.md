@@ -19,10 +19,10 @@ Daily drivers: Arch & Artix.
 
 <div align="left">
   <a href="https://github.com/Spinty-dev">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Spinty-dev&show_icons=true&theme=transparent&hide_border=true&title_color=1793D1&icon_color=1793D1&text_color=a6a6a6" alt="Stats" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Spinty-dev&show_icons=true&theme=transparent&bg_color=00000000&title_color=1793D1&icon_color=1793D1&text_color=a6a6a6" alt="Stats" />
   </a>
   <a href="https://github.com/Spinty-dev">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spinty-dev&layout=compact&theme=transparent&hide_border=true&title_color=1793D1&text_color=a6a6a6" alt="Languages" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spinty-dev&layout=compact&theme=transparent&bg_color=00000000&title_color=1793D1&text_color=a6a6a6" alt="Languages" />
   </a>
 </div>
 
