@@ -18,18 +18,18 @@ Daily drivers: Arch & Artix.
 ### Activity
 
 <div align="left">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=1793D1&icon_color=1793D1&text_color=a6a6a6" alt="Stats" />
+  <a href="https://github.com/Spinty-dev">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Spinty-dev&show_icons=true&theme=transparent&hide_border=true&title_color=1793D1&icon_color=1793D1&text_color=a6a6a6" alt="Stats" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=1793D1&text_color=a6a6a6" alt="Languages" />
+  <a href="https://github.com/Spinty-dev">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spinty-dev&layout=compact&theme=transparent&hide_border=true&title_color=1793D1&text_color=a6a6a6" alt="Languages" />
   </a>
 </div>
 
 <div align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Spinty-dev/Spinty-dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Spinty-dev/Spinty-dev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Spinty-dev/Spinty-dev/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
