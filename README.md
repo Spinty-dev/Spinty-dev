@@ -7,9 +7,13 @@
   <b>Daily drivers:</b> Arch & Artix
 </p>
 
+<br>
+
+### 🛠️ Tech Stack
+
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,python,go,java,kotlin,linux,docker,bash,c,cpp&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=rust,go,c,cpp,python,java,kotlin,linux,bash,docker&perline=5&theme=dark" alt="My Skills" />
   </a>
 </div>
 
